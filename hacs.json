@@ -1,6 +1,4 @@
 {
-    "name": "Asterisk integration",
-    "content_in_root": true,
-    "filename": "sipjsclient-card.js",
-    "render_readme": true
-  }
+  "name": "Asterisk integration",
+  "render_readme": true
+}
